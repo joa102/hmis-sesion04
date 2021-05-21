@@ -1,1 +1,1 @@
-Este fichero ha sido creado para probar el funcionamiento Webhooks.
+Fichero para probar el funcionamiento de Webhooks.
